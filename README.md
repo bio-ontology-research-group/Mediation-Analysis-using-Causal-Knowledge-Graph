@@ -3,5 +3,5 @@ We create a causal knowledge graph (CKG) for drugs and their relations with dise
 We use the CKG to identify side effects of drugs using mediation analysis.
 
 # Content
-We provide the graph associated with the CKG in data/causal_graph.tsv
-We provide the code used to run the mediation analysis in source/mediation_analysis.R
+1. We provide the graph associated with the CKG in data/causal_graph.tsv
+2. We provide the code used to run the mediation analysis in source/mediation_analysis.R
