@@ -17,8 +17,7 @@ We use DD-CKG to identify side effects of drugs using mediation analysis.
 - We used the high precision indications from the [MEDI-C dataset](https://www.vumc.org/wei-lab/medi)
 - We used side effects from the [OnSIDES dataset](https://github.com/tatonetti-lab/onsides/releases)
 - We used disease--disease causal relationships [from our previous work](https://github.com/bio-ontology-research-group/Causal-relations-between-diseases)
-- The created CKG can be found in data/graph.tsv
-- The causal edges corresponding to ![R_causal](https://latex.codecogs.com/svg.image?R_{causal}) can be found in data/causal_graph.tsv
+- The created CKG can be found in data/DD_CKG.tsv
 
 ## Mediation analysis
 - We used the R [**mediation**](https://cran.r-project.org/web/packages/mediation/index.html) package
