@@ -2,7 +2,7 @@
 We create a causal knowledge graph for drugs and their relations with diseases (DD-CKG).
 We use DD-CKG to identify side effects of drugs using mediation analysis.
 
-## KG construction
+## DD-CKG construction
 - We used the high precision indications from the [MEDI-C dataset](https://www.vumc.org/wei-lab/medi)
 - We used side effects from the [OnSIDES dataset](https://github.com/tatonetti-lab/onsides/releases)
 - We used disease--disease causal relationships [from our previous work](https://github.com/bio-ontology-research-group/Causal-relations-between-diseases)
