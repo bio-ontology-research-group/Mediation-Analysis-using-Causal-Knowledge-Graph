@@ -3,7 +3,7 @@ import random
 from collections import defaultdict
 
 # ----------------------------
-# Step 1: Load graph.tsv
+# Step 1: Load DD_CKG.tsv
 # ----------------------------
 graph = pd.read_csv("DD_CKG.tsv", sep="\t")
 
