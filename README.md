@@ -19,7 +19,7 @@ We use DD-CKG to identify side effects of drugs using mediation analysis.
 - We used disease--disease causal relationships [from our previous work](https://github.com/bio-ontology-research-group/Causal-relations-between-diseases)
 - The created CKG can be found in **data/DD_CKG.tsv**
 - The DD-CKG comes with a mapping function (f) that maps observations to nodes, because the used cohorts cannot be shared, we create a dummy dataset and show how the function is applied in **src/CKG_f.py**
-- The probability measure is 
+
 ## Mediation analysis
 - We used the R [**mediation**](https://cran.r-project.org/web/packages/mediation/index.html) package
 - The R script we used can be found in **src/mediation_analysis.R**
