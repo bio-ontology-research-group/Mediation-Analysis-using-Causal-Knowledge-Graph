@@ -23,5 +23,5 @@ We use DD-CKG to identify side effects of drugs using mediation analysis.
 ## Mediation analysis
 - We used the R [**mediation**](https://cran.r-project.org/web/packages/mediation/index.html) package
 - The R script we used can be found in src/mediation_analysis.R
-- The results of the mediation analyses can be found in result/
+- The results of the mediation analyses can be found in results/
 
