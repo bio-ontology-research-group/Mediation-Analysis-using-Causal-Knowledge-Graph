@@ -1,4 +1,4 @@
-# Mediation-Analysis-using-Causal-Knowledge-Graph
+# Mediation Analysis using a Causal Knowledge Graph
 We create a causal knowledge graph for drugs and their relations with diseases (DD-CKG). 
 Drugs are represented using RxNorm identifiers and diseases are represented by ICD-10 codes.
 We use DD-CKG to identify side effects of drugs using mediation analysis.
