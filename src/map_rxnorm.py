@@ -54,4 +54,3 @@ if __name__=="__main__":
                     codes.append(candidates[int(item)-1][0])
             if len(codes)>0:
                 f.write(drug+'\t'+'|'.join(codes)+'\n')
-                exit()
